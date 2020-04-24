@@ -1,6 +1,10 @@
 # Modul 242: Mikroprozessoranwendung realisieren
 
-VM mit installierter Docker Umgebung.
+VM mit installierter Docker Umgebung. 
+
+Einsatzbar z.B. als [Gateway (Edge)](https://github.com/mc-b/IoTKitV3/tree/master/edge) oder als [Backend Server](https://github.com/mc-b/IoTKitV3/tree/master/LAM).
+
+Für Weiterleitung von Ports siehe Projekt [lernmaas](https://github.com/mc-b/lernmaas/blob/master/doc/MAAS/GatewayClient.md#portweiterleitung).
 
 ## Dokumentation
 
